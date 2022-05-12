@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Hbcr4eLZAsrGOmYzAmhdqsSMQVP+P29OGNk+UjxaaNh5tKBr6Dg/vkya6Qhy65Xb8MnPn2sNXBm8tq8sMNMjQ==",
+  "dgSpecHash": "2g+sJtzyhHZH1ZpkuERkqFU67N0RjBJL0EuYUiw4IeCNrGRSeDdfPNtX0KUNP2IxKR+aOvMgKDZPOt7l3snrFw==",
   "success": true,
-  "projectFilePath": "C:\\SourceCode\\tp-p3-personajes\\tp-Juego.csproj",
+  "projectFilePath": "C:\\SourceCode\\P3-TP-Personajes\\tp-Juego.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

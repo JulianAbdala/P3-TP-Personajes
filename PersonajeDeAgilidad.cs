@@ -1,13 +1,13 @@
-﻿namespace tp_Juego
+namespace tp_Juego
 {
     public class PersonajeDeAgilidad : Personaje
     {
         public PersonajeDeAgilidad(string nombre, int fuerza, int agilidad, int magia)
         {
-            this.Nombre = nombre;
-            this.Fuerza = fuerza;
-            this.Agilidad = agilidad;
-            this.Magia = magia;
+            Nombre = nombre;
+            Fuerza = fuerza;
+            Agilidad = agilidad;
+            Magia = magia;
         }
 
         public override int CalcularDanio()

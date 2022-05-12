@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SourceCode\\tp-p3-personajes\\tp-Juego.csproj",
+      "projectUniqueName": "C:\\SourceCode\\P3-TP-Personajes\\tp-Juego.csproj",
       "projectName": "tp-Juego",
-      "projectPath": "C:\\SourceCode\\tp-p3-personajes\\tp-Juego.csproj",
+      "projectPath": "C:\\SourceCode\\P3-TP-Personajes\\tp-Juego.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\SourceCode\\tp-p3-personajes\\obj\\",
+      "outputPath": "C:\\SourceCode\\P3-TP-Personajes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\julia\\AppData\\Roaming\\NuGet\\NuGet.Config",

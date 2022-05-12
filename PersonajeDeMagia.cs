@@ -12,7 +12,7 @@
 
         public PersonajeDeMagia(string nombre2, int fuerza2, int agilidad2)
         {
-           this.Nombre = nombre2;
+            this.Nombre = nombre2;
             this.Fuerza= fuerza2;
             this.Magia = 60;        
             this.Agilidad= agilidad2;
